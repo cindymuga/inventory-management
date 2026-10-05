@@ -25,5 +25,5 @@ A simple inventory management system built with Python and Flask. It provides a 
 Clone the project and move into the project folder:
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/cindymuga/inventory-management
 cd inventory-management
